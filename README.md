@@ -9,6 +9,4 @@ I’m currently learning **Postgresql**.
 
 Contact me: [vikashverma3001@gmail.com](mailto:vikashverma3001@gmail.com)
 
-Explore my projects at [vikas369.dev](https://vikas369.dev).
-
-My articles: [My Blog](https://vikas369.dev/blog).
+My articles: [My Blog](https://vikas369.hashnode.dev/).
