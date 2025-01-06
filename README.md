@@ -3,7 +3,7 @@
 
 ![Vikas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vi369&show_icons=true&theme=radical)
 
-Currently working on **MERN Stack**.
+I’m currently working on **MERN Stack**.
 
 I’m currently learning **Postgresql**.
 
