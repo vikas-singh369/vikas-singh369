@@ -13,7 +13,7 @@
 </table>
 
 ### About Me  
-- 🔭 Currently working on **MERN Stack Projects**  
+- 🔭 Currently working on **Full Stack Projects**  
 - 🌱 Exploring **PostgreSQL & Cloud Technologies**  
 - 📚 I share tech blogs on **[Hashnode](https://vikas369.hashnode.dev/)**  
 - 📩 Reach me at **[vikashverma3001@gmail.com](mailto:vikashverma3001@gmail.com)**  
