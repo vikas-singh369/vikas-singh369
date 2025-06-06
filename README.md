@@ -14,7 +14,7 @@
 
 ### About Me  
 - 🔭 Currently working on **Full Stack Projects**  
-- 🌱 Exploring **PostgreSQL & Cloud Technologies**  
+- 🌱 Exploring **loud Technologies**  
 - 📚 I share tech blogs on **[Hashnode](https://vikas369.hashnode.dev/)**  
 - 📩 Reach me at **[vikashverma3001@gmail.com](mailto:vikashverma3001@gmail.com)**  
 - 🛠️ Previously **vi369**, now **vikasvarma369**  
