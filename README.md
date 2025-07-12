@@ -17,4 +17,4 @@
 - 🌱 Exploring **loud Technologies**  
 - 📚 I share tech blogs on **[Hashnode](https://vikas369.hashnode.dev/)**  
 - 📩 Reach me at **[vikashverma3001@gmail.com](mailto:vikashverma3001@gmail.com)**  
-- 🛠️ Previously **vi369**, now **vikasvarma369**  
+- 🛠️ Previously **vikasvarma369**, now  **vikas-singh369** 
