@@ -12,9 +12,7 @@
   </tr>
 </table>
 
-### About Me  
-- 🔭 Currently working on **Full Stack Projects**  
-- 🌱 Exploring **loud Technologies**  
+### About Me    
 - 📚 I share tech blogs on **[Hashnode](https://vikas369.hashnode.dev/)**  
 - 📩 Reach me at **[vikashverma3001@gmail.com](mailto:vikashverma3001@gmail.com)**  
 - 🛠️ Previously **vikasvarma369**, now  **vikas-singh369** 
