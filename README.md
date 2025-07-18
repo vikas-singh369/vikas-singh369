@@ -13,6 +13,7 @@
 </table>
 
 ### About Me    
+- Currently grinding and building the project.
 - 📚 I share tech blogs on **[Hashnode](https://vikas369.hashnode.dev/)**  
 - 📩 Reach me at **[vikashverma3001@gmail.com](mailto:vikashverma3001@gmail.com)**  
 - 🛠️ Previously **vikasvarma369**, now  **vikas-singh369** 
